@@ -7,7 +7,7 @@ tools when I'm not busy ~breaking production~ being awesome at
 
 * 💼 Full-time software engineer @ [Bueno Systems](https://www.buenosystems.com.au/)
 * ✏️ I work primarily with TypeScript, React, and Kotlin
-* 🤓 I'm making [Kaomoji.moe](https://beta.kaomoji.moe) & [slack-fm](https://github.com/JackCuthbert/slack-fm) when I have time
+* 🤓 I'm making [Kaomoji.moe](https://kaomoji.moe) & [slack-fm](https://github.com/JackCuthbert/slack-fm) when I have time
 * 🌱 Learning Rust, Go, and various devops things
 * 🖥️ I use Arch Linux btw, Vim too, ask me about them
 * 🕹️ PC gaming, mechanical keyboard, and anime nerd
