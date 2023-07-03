@@ -7,10 +7,10 @@ tools when I'm not busy ~breaking production~ being awesome at
 
 * 💼 Full-time software engineer @ [Bueno Systems](https://www.buenosystems.com.au/)
 * ✏️ I work primarily with TypeScript, React, and Kotlin
-* 🤓 I'm making [Kaomoji.moe](https://kaomoji.moe) & [slack-fm](https://github.com/JackCuthbert/slack-fm) when I have time
-* 🌱 Learning Rust, Go, and various devops things
-* 🖥️ I use Arch Linux btw, Vim too, ask me about them
-* 🕹️ PC gaming, mechanical keyboard, and anime nerd
+* 🤓 I'm making [Kaomoji.moe](https://kaomoji.moe) when I have time and motivation
+* 🌱 Learning Go, Data science/ML, and various devops things
+* 🖥️ Former Arch Linux evangelist, current Vim enjoyer
+* 🕹️ PC gaming, sci-fi, and anime nerd
 * 🌲 I'm a practicing minimalist and sustainability oriented
 
 [Read more ramblings on my blog](https://jackcuthbert.dev).
